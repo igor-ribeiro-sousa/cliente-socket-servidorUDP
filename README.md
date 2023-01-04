@@ -2,7 +2,7 @@
 Projeto JAVA
 
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/igorcons852/ClienteSocketServidorTCP/blob/master/LICENCE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/igorcons852/ClienteSocketServidorUDP/blob/master/LICENCE) 
 
 
 # Sobre o projeto
